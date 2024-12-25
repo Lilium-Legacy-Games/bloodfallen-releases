@@ -17,6 +17,7 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - Main Menu is now functional
 - **Known Issues**:
   - Movement Speed Ability is missing a cap
+  - "Options" Button is not functional
 ## License
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to:
 - **Share** - copy and redistribute the material in any medium or format
