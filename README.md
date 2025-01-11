@@ -20,7 +20,7 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - "Options" Button is not functional
 ## License
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to:
-- **Share** - copy and redistribute the material in any medium or format
+- **Share** - copy and redistribute the material in any medium or format 
 - **Adapt** - remix, transform, and build upon the material
 
 The licensor cannot revoke these freedoms as long as you follow the license terms:
