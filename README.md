@@ -8,6 +8,30 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.1.0a
+- **New Features**:
+  - New look: all art and sound redone for a blood-moon graveyard
+  - New enemies: skeletons, bats, banshees, ghouls, charging Gravehounds and Dreadguard elites
+  - Survive 15 minutes, then defeat the Blood Warden boss to win the run
+  - 7 weapons, each with an evolution, and 8 passives
+  - You hold up to 6 weapons and 6 passives, each levelled up to 5
+  - Experience drops as crystals to collect; enemies drop coins
+  - Upgrades shop on the main menu: spend coins on 12 permanent upgrades, including Revival
+  - Three playable characters: the Hunter, the Shade and the Blood Witch
+  - New Run screen: choose your character and level before each run
+  - Music for the menu, the run and the boss fight
+  - Pause screen showing your build and how each weapon evolves
+  - End-of-run summary
+  - Options: music and sound volume, screen shake, damage numbers, 60 FPS and fullscreen
+- **Bug Fixes**:
+  - The "Options" button now opens the options
+  - Movement speed is now capped
+  - Fullscreen is no longer blurry
+- **Known Issues**:
+  - Balance is still being tuned; tell us if runs feel too easy or too hard
+  - The Blood Witch's attack animation does not play
+  - Windows only for now; an Android build is coming
+
 ### Version 0.0.1a
 - **New Features**:
   - Enemy Spawns
