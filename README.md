@@ -1,4 +1,7 @@
 # Bloodfallen-Releases
+
+![Bloodfallen 0.1.0a gameplay](media/bloodfallen-teaser-0.1.0a.gif)
+
 Welcome to the Bloodfallen releases repository! Here, you'll find the bleeding edge versions of our game, designed for those who want to dive into the game's development from the ground up.
 ## What Is Bloodfallen?
 Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your feedback is crucial to shaping the game's future.
