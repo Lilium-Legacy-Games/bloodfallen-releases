@@ -11,6 +11,11 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.2.1a
+- **Bug Fixes**:
+  - Beating the Drowned Abbess now says "DROWNED ABBESS DEFEATED!" instead of "WARDEN DEFEATED!"
+  - If the Drowned Abbess dies mid-attack, her tide wave or beam no longer stays on screen as a magenta arc
+
 ### Version 0.2.0a
 - **New Features**:
   - New level: the Drowned Crypt, with six new enemies and a new boss, the Drowned Abbess. Defeat the Blood Warden to open it; it pays 1.5x coins
