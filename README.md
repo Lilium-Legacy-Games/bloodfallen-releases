@@ -1,6 +1,6 @@
 # Bloodfallen-Releases
 
-![Bloodfallen 0.1.0a gameplay](media/bloodfallen-teaser-0.1.0a.gif)
+![Bloodfallen 0.2.0a gameplay in the Drowned Crypt](media/bloodfallen-teaser-0.2.0a.gif)
 
 Welcome to the Bloodfallen releases repository! Here, you'll find the bleeding edge versions of our game, designed for those who want to dive into the game's development from the ground up.
 ## What Is Bloodfallen?
@@ -11,6 +11,26 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.2.0a
+- **New Features**:
+  - New level: the Drowned Crypt, with six new enemies and a new boss, the Drowned Abbess. Defeat the Blood Warden to open it; it pays 1.5x coins
+  - Throwables: molotovs, arrow rain, bone spikes, gravewells and frost bombs. Buy them in the SHOP or find them, then throw them with keys 1-5 (hold and drag on touch)
+  - Barrels, grave urns and cursed coffins break open for loot: heals, magnets, holy water, hourglasses, blood rage and shields
+  - SHOP on the main menu with items and skins (three colour skins per hero)
+  - Rerolls: swap a single level-up card
+  - Revive once per run for coins on the GAME OVER screen
+  - The Hunter, the Shade and the Blood Witch now look and play differently
+  - On PC the longbow and daggers aim at your cursor; an option turns on auto-aim instead
+  - Weapons look better: the aura pulses on each hit, firebombs leave flickering fire, lightning forks, and blades, arrows and daggers leave trails
+  - Run stats: after each run, see damage per weapon, what hurt you, where your XP came from and when you picked each upgrade
+  - New main menu: the game plays behind it, a card shows your last run, best time and total kills, a NEXT line names your next goal, UPGRADES shows NEW when you can afford something, and coins you just earned count up
+- **Bug Fixes**:
+  - The XP bar fills smoothly instead of in whole points
+  - Big crowds no longer flash white
+- **Known Issues**:
+  - Balance is still being tuned; tell us if runs feel too easy or too hard
+  - Windows only for now; an Android build is coming
+
 ### Version 0.1.0a
 - **New Features**:
   - New look: all art and sound redone for a blood-moon graveyard
