@@ -1,6 +1,6 @@
 # Bloodfallen-Releases
 
-![Bloodfallen 0.3.0a gameplay in the graveyard](media/bloodfallen-teaser-0.3.0a.gif)
+![Bloodfallen 0.3.1a gameplay: the Knight cutting through the graveyard horde](media/bloodfallen-teaser-0.3.1a.gif)
 
 Welcome to the Bloodfallen releases repository! Here, you'll find the bleeding edge versions of our game, designed for those who want to dive into the game's development from the ground up.
 ## What Is Bloodfallen?
