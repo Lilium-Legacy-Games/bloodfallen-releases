@@ -11,6 +11,22 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.3.1a
+- **New Features**:
+  - New hero: the Knight. Free from the start, with 150 health, a great helm and a longsword
+  - New weapon: the Knight's Sword slashes in a wide arc where you aim, adds a back-swing at level 3, and any hero can find it in level-ups. With Vitality it evolves into Oathbreaker, three blood-red slashes that heal you for 3% of the damage they deal
+  - Three Knight skins in the SHOP: Blackguard, Templar and Rusted Oath
+  - Every hero has a new running animation and now attacks on the move without their legs stopping
+  - A TOTAL coins counter under your inventory shows, live, your coins plus what ending the run now would pay
+  - Achievement pop-ups now appear top right, beside the kill count
+  - Barrels and urns break empty more often (a third of barrels, a fifth of urns) and hold fewer coins, so what they drop matters more
+- **Bug Fixes**:
+  - Enemies no longer get stuck behind landmarks or in pockets of decor; they walk around to reach you
+  - The hero select and SKINS screens fit all four heroes
+- **Known Issues**:
+  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
+  - Windows only for now; an Android build is coming
+
 ### Version 0.3.0a
 - **New Features**:
   - Bigger maps: twice the area, with landmarks to fight around: mausoleums, ruined chapel walls and angel statues in the graveyard; shrines, crypt walls and drowned statues in the crypt
