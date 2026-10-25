@@ -1,6 +1,6 @@
 # Bloodfallen-Releases
 
-![Bloodfallen 0.2.0a gameplay in the Drowned Crypt](media/bloodfallen-teaser-0.2.0a.gif)
+![Bloodfallen 0.3.0a gameplay in the graveyard](media/bloodfallen-teaser-0.3.0a.gif)
 
 Welcome to the Bloodfallen releases repository! Here, you'll find the bleeding edge versions of our game, designed for those who want to dive into the game's development from the ground up.
 ## What Is Bloodfallen?
@@ -11,6 +11,22 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.3.0a
+- **New Features**:
+  - Bigger maps: twice the area, with landmarks to fight around: mausoleums, ruined chapel walls and angel statues in the graveyard; shrines, crypt walls and drowned statues in the crypt
+  - Tombstones, trees, statues and other decor now block you and the horde; enemies find their way around them, and your arrows still fly over
+  - The camera shows 20% more of the arena
+  - 18 achievements that pay coins, with pop-ups during runs and a list in the main menu
+  - New main menu: the game plays behind it under a blood moon with fog, embers and lightning, your hero stands against the moon, the logo slams in and drips, and it shows your last run, your records and your next goal
+  - Coins you just earned count up on the main menu
+  - Patch notes in the main menu
+  - Accessibility options: screen shake strength, HUD size, and high-visibility warnings and reticle
+  - Rebindable keys for moving, dashing, pausing and throwing
+  - The cursor is a pointer in menus and a reticle in runs that reacts to hits, kills and reloads
+- **Known Issues**:
+  - Balance is still being tuned, especially with the bigger maps and blocking terrain; tell us how runs feel
+  - Windows only for now; an Android build is coming
+
 ### Version 0.2.1a
 - **Bug Fixes**:
   - Beating the Drowned Abbess now says "DROWNED ABBESS DEFEATED!" instead of "WARDEN DEFEATED!"
