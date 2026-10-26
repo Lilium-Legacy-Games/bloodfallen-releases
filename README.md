@@ -11,6 +11,15 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.4.2a
+- **Bug Fixes**:
+  - The PATCH NOTES list of versions scrolls instead of spilling out of the bottom of the screen
+- **Known Issues**:
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
+  - No Android build yet; it is coming
+
 ### Version 0.4.1a
 - **New Features**:
   - Bloodfallen runs on Linux: download bloodfallen-0.4.1a-linux.tar.gz from the releases page, unpack it and run Bloodfallen.x86_64
