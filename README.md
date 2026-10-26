@@ -11,6 +11,21 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.4.0a
+- **New Features**:
+  - The game now updates itself: when a new version is out, an UPDATE button appears in the main menu with what's new, and UPDATE NOW downloads it and restarts into it. This is the last version you need to download by hand
+  - FEEDBACK in the main menu and on the pause screen: tell us what happened or what felt off, and it reaches us together with the run it is about
+  - Run stats and errors are sent to us anonymously, so we can balance the game and fix bugs you never see. You can turn this off in OPTIONS (Send stats)
+  - The Blood Aura throbs and the scythes swoop: neither is silent any more
+  - Bosses roar when they arrive and when they enrage, and every boss attack has its own sound: slams, charges, the Abbess's tide, pools and beam
+  - Enemy attacks give a low warning before they land
+  - Each kind of enemy sounds like itself when hit and killed: bones rattle, bats squeak, spirits wail, armour clangs and the drowned burst
+  - Each level has its own ambient sound under the music: wind, crows and an owl in the graveyard; dripping water and a chain in the crypt
+- **Known Issues**:
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
+  - Windows only for now; an Android build is coming
+
 ### Version 0.3.1a
 - **New Features**:
   - New hero: the Knight. Free from the start, with 150 health, a great helm and a longsword
