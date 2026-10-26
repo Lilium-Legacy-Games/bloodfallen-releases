@@ -6,11 +6,22 @@ Welcome to the Bloodfallen releases repository! Here, you'll find the bleeding e
 ## What Is Bloodfallen?
 Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your feedback is crucial to shaping the game's future.
 ## How To Get Involved
-- **Download**:  Check the [Releases](https://github.com/Lilium-Legacy-Games/bloodfallen-releases/releases) section for the latest build.
+- **Download**: Get the latest build from [Releases](https://github.com/Lilium-Legacy-Games/bloodfallen-releases/releases): `bloodfallen-<version>-windows.zip` for Windows, `bloodfallen-<version>-linux.tar.gz` for Linux. From 0.4.0a on, the game updates itself from its main menu.
 - **Feedback**: Encounter a bug or have a suggestion? Post it in the [Issues](https://github.com/Lilium-Legacy-Games/bloodfallen-releases/issues) section or email us at [liliumlegacygames@gmail.com](mailto:liliumlegacygames@gmail.com).
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.4.1a
+- **New Features**:
+  - Bloodfallen runs on Linux: download bloodfallen-0.4.1a-linux.tar.gz from the releases page, unpack it and run Bloodfallen.x86_64
+  - The Linux version updates itself from the main menu, like the Windows one
+  - The game has its own icon: a bleeding B before the blood moon, on your desktop and taskbar
+- **Known Issues**:
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
+  - No Android build yet; it is coming
+
 ### Version 0.4.0a
 - **New Features**:
   - The game now updates itself: when a new version is out, an UPDATE button appears in the main menu with what's new, and UPDATE NOW downloads it and restarts into it. This is the last version you need to download by hand
