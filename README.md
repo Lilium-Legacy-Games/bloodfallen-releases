@@ -11,6 +11,28 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.4.5a
+- **New Features**:
+  - Every level-up heals 20% of your health, with a green burst over your hero to show it
+  - Once every weapon and passive is maxed, a level-up just heals you: the game no longer stops for an empty level-up screen
+  - The Banshee has a new look, and ranged enemies now fire wailing ectoplasm wisps that face the way they fly
+  - Frozen enemies thaw before they break free: their colour warms, they shudder and the ice cracks off, so they no longer catch you off guard
+  - The dash button stays on screen through its cooldown, greyed out with the seconds left, like the throwables
+  - The main menu shows tips, one at a time; click or tap the panel for the next one
+  - Hellfire, the Firebomb's evolution, burns a deeper red-orange instead of green, with fewer flames crowding the ground
+  - Oathbreaker, the Knight's evolved sword, now heals 2% of the damage it deals instead of 3%
+- **Bug Fixes**:
+  - The coin count under the timer now shows everything the run will pay (the time bonus, Greed and achievements too), so it matches your total
+  - On phones, the pause menu is no longer cut off at the top and bottom
+  - The level-up screen sits in the middle of the screen instead of riding high
+  - The LAST RUN card on the main menu lines up with the FEEDBACK button
+- **Known Issues**:
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - On Android, updating means installing the new APK from the release page: the main menu's DOWNLOAD button opens it, and your progress is kept
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
+
 ### Version 0.4.4a
 - **New Features**:
   - On phones everything is bigger: the menus, every window and the HUD are drawn 1.4 times larger, and the camera is closer in a run
