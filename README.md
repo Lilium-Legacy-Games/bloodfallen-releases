@@ -6,11 +6,41 @@ Welcome to the Bloodfallen releases repository! Here, you'll find the bleeding e
 ## What Is Bloodfallen?
 Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your feedback is crucial to shaping the game's future.
 ## How To Get Involved
-- **Download**: Get the latest build from [Releases](https://github.com/Lilium-Legacy-Games/bloodfallen-releases/releases): `bloodfallen-<version>-windows.zip` for Windows, `bloodfallen-<version>-linux.tar.gz` for Linux. From 0.4.0a on, the game updates itself from its main menu.
+- **Download**: Get the latest build from [Releases](https://github.com/Lilium-Legacy-Games/bloodfallen-releases/releases): `bloodfallen-<version>-windows.zip` for Windows, `bloodfallen-<version>-linux.tar.gz` for Linux, `bloodfallen-<version>-android.apk` for Android (open it on your phone to install). From 0.4.0a on, the Windows and Linux versions update themselves from the main menu; on Android the main menu tells you when a new version is out and DOWNLOAD opens its release page, and installing the new APK keeps your progress.
 - **Feedback**: Encounter a bug or have a suggestion? Post it in the [Issues](https://github.com/Lilium-Legacy-Games/bloodfallen-releases/issues) section or email us at [liliumlegacygames@gmail.com](mailto:liliumlegacygames@gmail.com).
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.4.4a
+- **New Features**:
+  - On phones everything is bigger: the menus, every window and the HUD are drawn 1.4 times larger, and the camera is closer in a run
+  - On phones, aim with a second stick on the right of the screen, the way the mouse aims on PC
+  - Auto-aim is now an option on phones too, off by default; turn it on in OPTIONS to have the weapons find their own targets
+  - Long lists on phones (upgrades, the shop, options, achievements, patch notes) scroll, with a scroll bar you can drag
+  - On phones, NEW RUN shows the characters, the levels and START on one screen
+- **Bug Fixes**:
+  - On phones, the LEVEL UP! title no longer covers the timer, and the reroll buttons are no longer hidden behind the throwables
+  - On phones, the game over buttons no longer fall off the bottom of the screen
+  - The revive note sits right under the REVIVE button instead of below the other buttons
+- **Known Issues**:
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - On Android, updating means installing the new APK from the release page: the main menu's DOWNLOAD button opens it, and your progress is kept
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
+
+### Version 0.4.3a
+- **New Features**:
+  - Bloodfallen runs on Android: download bloodfallen-0.4.3a-android.apk from the releases page on your phone and open it to install
+  - On Android, the main menu tells you when a new version is out; DOWNLOAD opens the release page, and installing the new APK keeps your progress
+  - Barrels and urns drop gold coins more often: coins are now their most likely drop, and they break empty less often
+- **Known Issues**:
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - Android asks you to allow installing apps from your browser the first time, since the game isn't on Google Play
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
+
 ### Version 0.4.2a
 - **Bug Fixes**:
   - The PATCH NOTES list of versions scrolls instead of spilling out of the bottom of the screen
