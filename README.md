@@ -11,6 +11,19 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.4.7a
+- **New Features**:
+  - Crimson Bloom, the Blood Aura's evolution, heals at most 0.15% of your health a pulse instead of 0.3%
+  - The Knight's Sword reaches 10% less far at every level, Oathbreaker included
+  - Every hero level adds 1% damage instead of 1.5%
+  - Volley gives Lightning half its extra bolts, rounded down: +1 at Volley 3 to 5 instead of +2 or +3, and none at Volley 1 and 2 instead of +1
+  - Every level-up heals 10% of your health instead of 20%
+  - Bone Armor tops out at 17% less damage taken instead of 25% (4%, 7%, 10%, 14% and 17% by level)
+- **Known Issues**:
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+
 ### Version 0.4.6a
 - **New Features**:
   - Android can now update itself: UPDATE NOW downloads the new version and opens Android's installer, so there's no need to find the APK on the release page
@@ -25,7 +38,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
   - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
   - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
-  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
 
 ### Version 0.4.5a
 - **New Features**:
@@ -47,7 +59,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - On Android, updating means installing the new APK from the release page: the main menu's DOWNLOAD button opens it, and your progress is kept
   - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
   - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
-  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
 
 ### Version 0.4.4a
 - **New Features**:
@@ -65,7 +76,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - On Android, updating means installing the new APK from the release page: the main menu's DOWNLOAD button opens it, and your progress is kept
   - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
   - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
-  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
 
 ### Version 0.4.3a
 - **New Features**:
@@ -77,7 +87,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - Android asks you to allow installing apps from your browser the first time, since the game isn't on Google Play
   - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
   - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
-  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
 
 ### Version 0.4.2a
 - **Bug Fixes**:
@@ -85,7 +94,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Known Issues**:
   - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
   - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
-  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
   - No Android build yet; it is coming
 
 ### Version 0.4.1a
@@ -96,7 +104,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Known Issues**:
   - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
   - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
-  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
   - No Android build yet; it is coming
 
 ### Version 0.4.0a
@@ -111,7 +118,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - Each level has its own ambient sound under the music: wind, crows and an owl in the graveyard; dripping water and a chain in the crypt
 - **Known Issues**:
   - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
-  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
   - Windows only for now; an Android build is coming
 
 ### Version 0.3.1a
@@ -127,7 +133,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - Enemies no longer get stuck behind landmarks or in pockets of decor; they walk around to reach you
   - The hero select and SKINS screens fit all four heroes
 - **Known Issues**:
-  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
   - Windows only for now; an Android build is coming
 
 ### Version 0.3.0a
