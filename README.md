@@ -11,6 +11,22 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.4.6a
+- **New Features**:
+  - Android can now update itself: UPDATE NOW downloads the new version and opens Android's installer, so there's no need to find the APK on the release page
+  - The first Android update asks you to allow Bloodfallen to install apps; your progress is kept through every update
+  - Oathbreaker, the Knight's evolved sword, now heals 0.5% of the damage it deals instead of 2%
+  - Lightning chains to fewer enemies late on: 3 at level 5 instead of 4, and Tempest throws 3 bolts that chain to 4 instead of 4 that chain to 6
+  - Lightning's level 5 deals 30 damage instead of 34, and Tempest deals 36 instead of 41
+  - Blood Aura's level 5 deals 10 damage instead of 12, pulses every 0.45 seconds instead of 0.4 and reaches a little less far
+  - Crimson Bloom, the Blood Aura's evolution, deals 12 damage instead of 15, pulses every 0.45 seconds instead of 0.4, is smaller and heals at most 0.3% of your health a pulse instead of 0.5%
+- **Known Issues**:
+  - Updating Android from 0.4.5a still means installing the new APK from the release page; from this version on, the game updates itself
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+  - Other heroes can wield the Knight's Sword, but only the Knight is drawn holding it
+
 ### Version 0.4.5a
 - **New Features**:
   - Every level-up heals 20% of your health, with a green burst over your hero to show it
