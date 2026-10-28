@@ -11,6 +11,14 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.4.8a
+- **Bug Fixes**:
+  - The update screen's download bar no longer spills over the left edge of its track as a download starts; it fills from the left, inside the track
+- **Known Issues**:
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+
 ### Version 0.4.7a
 - **New Features**:
   - Crimson Bloom, the Blood Aura's evolution, heals at most 0.15% of your health a pulse instead of 0.3%
