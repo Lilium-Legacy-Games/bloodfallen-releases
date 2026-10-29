@@ -11,6 +11,22 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.4.9a
+- **New Features**:
+  - A third level, the Sunken Dunes, opens once you beat the Drowned Crypt: mummies, scarabs, sun priests, scorpions and scarab queens that burst into scarabs, with jackals that charge and tomb guardians as its elites
+  - At the end of the Sunken Dunes waits the Sun-Scorched Pharaoh, who raises mummies from the sand and sends out spiralling streams of suns; slip through the gaps between them
+  - The Sunken Dunes are the hardest level yet, have their own music and desert wind, and pay twice the coins
+  - The first few minutes of every level are gentler: enemies start with less health and damage and reach full strength by minute 6
+  - On phones, the game buzzes when you're hit, when you level up and when a boss arrives; turn it off with VIBRATION in the options
+  - Leaving the game in the middle of a run (the home button, a call, switching windows) pauses it
+  - On phones with a notch or rounded corners, the HUD, the menu's buttons and every window stay clear of them
+- **Bug Fixes**:
+  - On phones, the patch notes shown after an update no longer run off the edges of the screen
+- **Known Issues**:
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+
 ### Version 0.4.8a
 - **Bug Fixes**:
   - The update screen's download bar no longer spills over the left edge of its track as a download starts; it fills from the left, inside the track
