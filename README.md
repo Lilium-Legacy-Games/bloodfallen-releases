@@ -11,6 +11,25 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.0a
+- **New Features**:
+  - Bosses fight you, not the crowd: their roar clears every enemy on the map, only a few come back during the fight, and they hit harder and attack more often; dodge their warnings
+  - The Sun-Scorched Pharaoh has less health, so his fight no longer drags on for minutes
+  - New sound effects, recorded rather than synthesized: the bow, blades, hits, deaths, coins, pickups, explosions, boss attacks and more
+  - Common sounds such as hits, deaths, coins and arrows have several takes, so a crowd doesn't sound like one noise repeated
+  - The Blood Witch's Bloodburst: enemies that die in her aura burst and hurt those around them, and the bursts chain through a packed crowd; her area bonus is now 30%
+  - The Shade's Shadowstep: she starts with the dash, kills recharge it, and right after a dash she deals double damage
+  - Level-up cards and the shop say what each rank adds (Vitality: +16 max health) instead of the total so far
+  - Volley's ranks that add no extra shot now add 10% damage to the weapons it boosts
+  - Screen shake starts at 30%; turn it up or down under ACCESSIBILITY
+- **Bug Fixes**:
+  - The scythes and the Blood Aura make their sound when they hit something, instead of on a timer whether anything was there or not
+- **Known Issues**:
+  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+
 ### Version 0.4.9a
 - **New Features**:
   - A third level, the Sunken Dunes, opens once you beat the Drowned Crypt: mummies, scarabs, sun priests, scorpions and scarab queens that burst into scarabs, with jackals that charge and tomb guardians as its elites
