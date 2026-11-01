@@ -11,7 +11,7 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
-### Version 0.5.0a
+### Version 0.4.10a
 - **New Features**:
   - Bosses fight you, not the crowd: their roar clears every enemy on the map, only a few come back during the fight, and they hit harder and attack more often; dodge their warnings
   - The Sun-Scorched Pharaoh has less health, so his fight no longer drags on for minutes
