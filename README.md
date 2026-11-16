@@ -11,7 +11,25 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
-### Version 0.5.0a
+### Version 0.5.1a
+- **New Features**:
+  - Picking a level-up card shows what you got: the card rises with a soft glow, a ribbon names the upgrade, then it flies into your inventory
+  - Closing the pause screen counts down before the fight resumes, just like after a level-up
+  - Choose how long that countdown is, 1, 2 or 3 seconds, under ACCESSIBILITY
+  - The charging beasts are redrawn: the Gravehound is now a skull-faced barghest, and the Lurker and Jackal have new looks too
+  - Chargers crouch and tense before they pounce, leave a trail as they lunge and land with a skid of dust; their warning is a soft lane with a small arrow
+  - Lightning has a new crackling sound, and picking up a health potion now sounds like drinking it instead of a bell
+  - Banshees sound lower and softer when hit and when they die
+- **Bug Fixes**:
+  - The flask's throw sound no longer cuts off at the end
+  - On PC, Space only dashes: it no longer presses the last button you clicked, such as a level-up card
+- **Known Issues**:
+  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+
+### Version 0.4.10a
 - **New Features**:
   - Bosses fight you, not the crowd: their roar clears every enemy on the map, only a few come back during the fight, and they hit harder and attack more often; dodge their warnings
   - The Sun-Scorched Pharaoh has less health, so his fight no longer drags on for minutes
