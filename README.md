@@ -11,6 +11,22 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.4a
+- **New Features**:
+  - On phones, the level-up cards are a little smaller and sit in the middle of the screen under the title
+  - On phones, the health bar, XP bar, inventory and total coins sit a little nearer the left edge, leaving more of the arena in view
+- **Bug Fixes**:
+  - When a cleared wave gives several levels, the last level's cards no longer flash back for a moment before the next level's cards appear
+- **Known Issues**:
+  - Levels you had opened by winning Survival are locked again until you also win their Waves
+  - Waves mode is a first pass; tell us with FEEDBACK if the waves are too long, too hard or too easy
+  - Co-op is on PC only for now; on phones the game is single player
+  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
+  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+
 ### Version 0.5.3a
 - **New Features**:
   - A new mode, Waves: pick SURVIVAL or WAVES on the NEW RUN screen, beside the levels
