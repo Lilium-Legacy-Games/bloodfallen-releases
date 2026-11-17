@@ -11,6 +11,21 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.2a
+- **New Features**:
+  - Two players can play together on one PC: on the NEW RUN screen, press + PLAYER 2, or A on a gamepad, or Right Shift on the keyboard, and each player picks their own hero
+  - Player 2 moves with a gamepad's left stick or the arrow keys and dashes with a bumper, X or Right Shift; their weapons aim themselves
+  - The camera keeps both heroes on screen, each hero wears a ring and a health bar in their colour, and player 2's weapons and upgrades show in the top-right corner
+  - XP is shared: at every level-up both heroes level up, a fallen partner gets back up, and each player picks their own card in turn
+  - Enemies and the boss are tougher when two of you play
+- **Known Issues**:
+  - Co-op is on PC only for now; on phones the game is single player
+  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
+  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+
 ### Version 0.5.1a
 - **New Features**:
   - Picking a level-up card shows what you got: the card rises with a soft glow, a ribbon names the upgrade, then it flies into your inventory
