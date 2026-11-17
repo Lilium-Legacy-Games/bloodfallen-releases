@@ -11,6 +11,25 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.3a
+- **New Features**:
+  - A new mode, Waves: pick SURVIVAL or WAVES on the NEW RUN screen, beside the levels
+  - In Waves, each level sends ten named waves, each bigger and tougher than the last, and its boss comes once the last one is cleared
+  - Clearing a wave gathers every coin and XP crystal on the map, gives you a free level and some coins, then a short breather before the next wave
+  - When a cleared wave gives you several levels, you pick every card one after another and the fight resumes once, after the last
+  - A bar under the wave counter shows how many enemies are left, or counts down to the next wave
+  - Each level now opens by winning the one before it in both Survival and Waves, and the NEW RUN screen stars each mode you've won
+  - On phones, the LEVEL UP! title is smaller and the upgrade cards and their text are bigger
+- **Known Issues**:
+  - Levels you had opened by winning Survival are locked again until you also win their Waves
+  - Waves mode is a first pass; tell us with FEEDBACK if the waves are too long, too hard or too easy
+  - Co-op is on PC only for now; on phones the game is single player
+  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
+  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+
 ### Version 0.5.2a
 - **New Features**:
   - Two players can play together on one PC: on the NEW RUN screen, press + PLAYER 2, or A on a gamepad, or Right Shift on the keyboard, and each player picks their own hero
