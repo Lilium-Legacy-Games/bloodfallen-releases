@@ -11,6 +11,35 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.5a
+- **New Features**:
+  - A new hero, the Juggernaut (900 coins): a tank with the most health, who takes 20% less damage but moves slower, and hurts enemies that press against him
+  - The Juggernaut's Warhammer slams the ground all around him and leaves a crater; from level 3 it sends shockwaves rolling out, and with Armor it evolves into Earthbreaker, whose waves stun
+  - Three skins for the Juggernaut in the shop
+  - Every hero has a special ability on its own button with a cooldown: Heartseeker for the Hunter, Whirlwind for the Knight, Smoke Veil for the Shade, Blood Moon for the Blood Witch and Earthshatter for the Juggernaut
+  - On PC the special is on Q (change it in OPTIONS); on a phone, tap the special button to use it, or drag from it to aim
+  - The Blood Witch now throws Hex Flasks on her own, and you choose where they land within her reach; a grey circle shows the spot
+  - The Blood Witch starts with a weaker Blood Aura, which level-up cards can still raise and evolve
+  - The game over screen says what killed you
+  - The hero cards on the run setup screen turn in pages, with arrows and a dot per page beside CHARACTER, and each card names its hero's special
+  - 11 new achievements, among them goals for the Sunken Dunes, for winning in Waves and for using your special
+  - New tips on the main menu about specials, the Juggernaut, the Blood Witch and Waves
+  - Runs pay about 30% fewer coins, from every source: drops, elites, bosses, barrels, urns, coffins, time survived, waves and the win bonus
+  - Achievements pay about 30% fewer coins
+  - Enemies grow tougher faster as a run goes on, most of all in the Blood-Moon Graveyard, to make up for the new specials
+- **Bug Fixes**:
+  - With a full build, the stats screen's last upgrade no longer hides under the BACK button
+- **Known Issues**:
+  - The specials and the Juggernaut are a first pass; tell us with FEEDBACK if any feel too strong or too weak
+  - Levels you had opened by winning Survival are locked again until you also win their Waves
+  - Waves mode is a first pass; tell us with FEEDBACK if the waves are too long, too hard or too easy
+  - Co-op is on PC only for now; on phones the game is single player
+  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
+  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+
 ### Version 0.5.4a
 - **New Features**:
   - On phones, the level-up cards are a little smaller and sit in the middle of the screen under the title
