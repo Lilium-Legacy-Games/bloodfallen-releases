@@ -11,6 +11,35 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.7a
+- **New Features**:
+  - Hero Mastery: every hero earns mastery from their runs, for minutes survived, kills and wins, and the MASTERY screen in the main menu shows each hero's levels
+  - Mastery levels give small lasting bonuses (more damage, more health, shorter cooldowns, more coins) and a crest at the top level
+  - Each hero unlocks a second special and a second starting weapon through mastery, and you choose which to equip on the MASTERY screen
+  - New specials: Arrow Storm for the Hunter, Shield Charge for the Knight, Rampage for the Juggernaut, Smoke Veil for the Shade and Blood Pact for the Blood Witch
+  - New weapons, one for each hero: the Hunter's Crossbow, the Knight's Mace, the Juggernaut's Great Axe that sweeps three quarters of the way round him, the Shade's Shuriken and the Blood Witch's Briar Staff, whose thorns slow what they catch
+  - Every hero is drawn holding the weapon they have equipped, with its own attack animation
+  - The Shade's first special is now the Fan of Knives, thrown out all round her; Smoke Veil is the one she unlocks
+  - Weapon cards say where a weapon goes: where you aim, or with auto-aim on, at the nearest enemy or the way you move
+- **Bug Fixes**:
+  - The Knight's Mace leaves only a dent in the ground where it lands, not a big mace lying on the floor
+  - The Juggernaut's Great Axe is only ever the one in his hands; its sweep shows as a slash, like the Knight's sword
+  - The Blood Witch's Blood Pact has its own sound as it is sealed
+  - The Knight's sword slashes a slightly narrower arc
+  - The Hex Flask is thrown less often, and each flask hits harder
+  - The Longbow, Daggers and Hex Flask cards no longer claim to aim at the nearest enemy when you aim them yourself
+- **Known Issues**:
+  - Hero Mastery and its weapons and specials are a first pass; tell us with FEEDBACK if any feel too strong or too weak
+  - The specials and the Juggernaut are a first pass; tell us with FEEDBACK if any feel too strong or too weak
+  - Levels you had opened by winning Survival are locked again until you also win their Waves
+  - Waves mode is a first pass; tell us with FEEDBACK if the waves are too long, too hard or too easy
+  - Co-op is on PC only for now; on phones the game is single player
+  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
+  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+
 ### Version 0.5.6a
 - **New Features**:
   - The Juggernaut's hammer leaves a smaller, softer mark that suits each level: turned soil and clods in the Blood-Moon Graveyard, a cracked flagstone in the Drowned Crypt and a dip in the sand in the Sunken Dunes, with dust in the ground's own colour
