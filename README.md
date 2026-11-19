@@ -11,6 +11,24 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.8a
+- **New Features**:
+  - On a phone, the MASTERY screen's hero portraits along the top are bigger
+  - On a phone, the equipped weapon and special on the MASTERY screen are drawn bigger, and the list of levels is narrower to make room
+- **Bug Fixes**:
+  - On a phone, the MASTERY button no longer covers the bottom of the last run's card; it sits beside FEEDBACK
+- **Known Issues**:
+  - Hero Mastery and its weapons and specials are a first pass; tell us with FEEDBACK if any feel too strong or too weak
+  - The specials and the Juggernaut are a first pass; tell us with FEEDBACK if any feel too strong or too weak
+  - Levels you had opened by winning Survival are locked again until you also win their Waves
+  - Waves mode is a first pass; tell us with FEEDBACK if the waves are too long, too hard or too easy
+  - Co-op is on PC only for now; on phones the game is single player
+  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
+  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+
 ### Version 0.5.7a
 - **New Features**:
   - Hero Mastery: every hero earns mastery from their runs, for minutes survived, kills and wins, and the MASTERY screen in the main menu shows each hero's levels
