@@ -11,6 +11,25 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.6a
+- **New Features**:
+  - The Juggernaut's hammer leaves a smaller, softer mark that suits each level: turned soil and clods in the Blood-Moon Graveyard, a cracked flagstone in the Drowned Crypt and a dip in the sand in the Sunken Dunes, with dust in the ground's own colour
+  - On a phone, aimed specials are steered like a stick: drag from the special button the way you want it to go, and for the Blood Moon, how far you drag is how far out it lands; drag back to the middle of the button and let go to cancel
+- **Bug Fixes**:
+  - On a phone, the Hunter's Heartseeker can be aimed down and to the right; before, dragging that way went back over the button and cancelled it
+  - In the shop's SKINS tab, the last row of skins (the Blood Witch's) no longer sits under the BACK button on PC
+  - On a phone, the shop's SKINS tab scrolls all the way down to the Blood Witch's skins
+- **Known Issues**:
+  - The specials and the Juggernaut are a first pass; tell us with FEEDBACK if any feel too strong or too weak
+  - Levels you had opened by winning Survival are locked again until you also win their Waves
+  - Waves mode is a first pass; tell us with FEEDBACK if the waves are too long, too hard or too easy
+  - Co-op is on PC only for now; on phones the game is single player
+  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
+  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
+  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
+  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
+  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
+
 ### Version 0.5.5a
 - **New Features**:
   - A new hero, the Juggernaut (900 coins): a tank with the most health, who takes 20% less damage but moves slower, and hurts enemies that press against him
