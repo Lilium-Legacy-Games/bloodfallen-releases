@@ -11,23 +11,27 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.9a
+- **New Features**:
+  - Bloodfallen speaks seven languages: English, Bosnian, German, French, Spanish, Russian and Turkish. Pick one with Language in the main menu's OPTIONS; the first start uses your device's language
+  - Every screen, card, hero, weapon, level, tip and achievement is translated, and the level-up cards write their names in your language
+- **Bug Fixes**:
+  - The Bone Armor icon is a new shield without the X across it
+  - The Regeneration icon's arrow is smaller, sits inside its heart, and its head lines up with the arrow
+  - The Knight's Sword icon no longer reaches outside its medallion
+  - Waves mode no longer jumps in difficulty at the last wave: the middle waves are a little harder and the tenth gentler
+  - A run pays about a third fewer coins, from every source but achievements: one run filled the shop too fast
+  - A boss's name no longer shows over the level-up cards, and the coin counter moves beside the boss bar instead of under it
+- **Known Issues**:
+  - The translations are a first pass; tell us with FEEDBACK if a word reads wrong or a text doesn't fit
+  - Patch notes stay in English
+
 ### Version 0.5.8a
 - **New Features**:
   - On a phone, the MASTERY screen's hero portraits along the top are bigger
   - On a phone, the equipped weapon and special on the MASTERY screen are drawn bigger, and the list of levels is narrower to make room
 - **Bug Fixes**:
   - On a phone, the MASTERY button no longer covers the bottom of the last run's card; it sits beside FEEDBACK
-- **Known Issues**:
-  - Hero Mastery and its weapons and specials are a first pass; tell us with FEEDBACK if any feel too strong or too weak
-  - The specials and the Juggernaut are a first pass; tell us with FEEDBACK if any feel too strong or too weak
-  - Levels you had opened by winning Survival are locked again until you also win their Waves
-  - Waves mode is a first pass; tell us with FEEDBACK if the waves are too long, too hard or too easy
-  - Co-op is on PC only for now; on phones the game is single player
-  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
-  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.5.7a
 - **New Features**:
@@ -46,17 +50,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - The Knight's sword slashes a slightly narrower arc
   - The Hex Flask is thrown less often, and each flask hits harder
   - The Longbow, Daggers and Hex Flask cards no longer claim to aim at the nearest enemy when you aim them yourself
-- **Known Issues**:
-  - Hero Mastery and its weapons and specials are a first pass; tell us with FEEDBACK if any feel too strong or too weak
-  - The specials and the Juggernaut are a first pass; tell us with FEEDBACK if any feel too strong or too weak
-  - Levels you had opened by winning Survival are locked again until you also win their Waves
-  - Waves mode is a first pass; tell us with FEEDBACK if the waves are too long, too hard or too easy
-  - Co-op is on PC only for now; on phones the game is single player
-  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
-  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.5.6a
 - **New Features**:
@@ -66,16 +59,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - On a phone, the Hunter's Heartseeker can be aimed down and to the right; before, dragging that way went back over the button and cancelled it
   - In the shop's SKINS tab, the last row of skins (the Blood Witch's) no longer sits under the BACK button on PC
   - On a phone, the shop's SKINS tab scrolls all the way down to the Blood Witch's skins
-- **Known Issues**:
-  - The specials and the Juggernaut are a first pass; tell us with FEEDBACK if any feel too strong or too weak
-  - Levels you had opened by winning Survival are locked again until you also win their Waves
-  - Waves mode is a first pass; tell us with FEEDBACK if the waves are too long, too hard or too easy
-  - Co-op is on PC only for now; on phones the game is single player
-  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
-  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.5.5a
 - **New Features**:
@@ -95,16 +78,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - Enemies grow tougher faster as a run goes on, most of all in the Blood-Moon Graveyard, to make up for the new specials
 - **Bug Fixes**:
   - With a full build, the stats screen's last upgrade no longer hides under the BACK button
-- **Known Issues**:
-  - The specials and the Juggernaut are a first pass; tell us with FEEDBACK if any feel too strong or too weak
-  - Levels you had opened by winning Survival are locked again until you also win their Waves
-  - Waves mode is a first pass; tell us with FEEDBACK if the waves are too long, too hard or too easy
-  - Co-op is on PC only for now; on phones the game is single player
-  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
-  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.5.4a
 - **New Features**:
@@ -112,15 +85,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - On phones, the health bar, XP bar, inventory and total coins sit a little nearer the left edge, leaving more of the arena in view
 - **Bug Fixes**:
   - When a cleared wave gives several levels, the last level's cards no longer flash back for a moment before the next level's cards appear
-- **Known Issues**:
-  - Levels you had opened by winning Survival are locked again until you also win their Waves
-  - Waves mode is a first pass; tell us with FEEDBACK if the waves are too long, too hard or too easy
-  - Co-op is on PC only for now; on phones the game is single player
-  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
-  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.5.3a
 - **New Features**:
@@ -131,15 +95,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - A bar under the wave counter shows how many enemies are left, or counts down to the next wave
   - Each level now opens by winning the one before it in both Survival and Waves, and the NEW RUN screen stars each mode you've won
   - On phones, the LEVEL UP! title is smaller and the upgrade cards and their text are bigger
-- **Known Issues**:
-  - Levels you had opened by winning Survival are locked again until you also win their Waves
-  - Waves mode is a first pass; tell us with FEEDBACK if the waves are too long, too hard or too easy
-  - Co-op is on PC only for now; on phones the game is single player
-  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
-  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.5.2a
 - **New Features**:
@@ -148,13 +103,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - The camera keeps both heroes on screen, each hero wears a ring and a health bar in their colour, and player 2's weapons and upgrades show in the top-right corner
   - XP is shared: at every level-up both heroes level up, a fallen partner gets back up, and each player picks their own card in turn
   - Enemies and the boss are tougher when two of you play
-- **Known Issues**:
-  - Co-op is on PC only for now; on phones the game is single player
-  - Co-op is a first pass; tell us with FEEDBACK how it plays and whether two players find it too easy
-  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.5.1a
 - **New Features**:
@@ -168,11 +116,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Bug Fixes**:
   - The flask's throw sound no longer cuts off at the end
   - On PC, Space only dashes: it no longer presses the last button you clicked, such as a level-up card
-- **Known Issues**:
-  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.4.10a
 - **New Features**:
@@ -187,11 +130,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - Screen shake starts at 30%; turn it up or down under ACCESSIBILITY
 - **Bug Fixes**:
   - The scythes and the Blood Aura make their sound when they hit something, instead of on a timer whether anything was there or not
-- **Known Issues**:
-  - The new boss fights are a first pass; tell us with FEEDBACK if they're too hard or too easy
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.4.9a
 - **New Features**:
@@ -204,18 +142,10 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - On phones with a notch or rounded corners, the HUD, the menu's buttons and every window stay clear of them
 - **Bug Fixes**:
   - On phones, the patch notes shown after an update no longer run off the edges of the screen
-- **Known Issues**:
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.4.8a
 - **Bug Fixes**:
   - The update screen's download bar no longer spills over the left edge of its track as a download starts; it fills from the left, inside the track
-- **Known Issues**:
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.4.7a
 - **New Features**:
@@ -225,10 +155,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - Volley gives Lightning half its extra bolts, rounded down: +1 at Volley 3 to 5 instead of +2 or +3, and none at Volley 1 and 2 instead of +1
   - Every level-up heals 10% of your health instead of 20%
   - Bone Armor tops out at 17% less damage taken instead of 25% (4%, 7%, 10%, 14% and 17% by level)
-- **Known Issues**:
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.4.6a
 - **New Features**:
@@ -239,11 +165,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - Lightning's level 5 deals 30 damage instead of 34, and Tempest deals 36 instead of 41
   - Blood Aura's level 5 deals 10 damage instead of 12, pulses every 0.45 seconds instead of 0.4 and reaches a little less far
   - Crimson Bloom, the Blood Aura's evolution, deals 12 damage instead of 15, pulses every 0.45 seconds instead of 0.4, is smaller and heals at most 0.3% of your health a pulse instead of 0.5%
-- **Known Issues**:
-  - Updating Android from 0.4.5a still means installing the new APK from the release page; from this version on, the game updates itself
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.4.5a
 - **New Features**:
@@ -260,11 +181,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - On phones, the pause menu is no longer cut off at the top and bottom
   - The level-up screen sits in the middle of the screen instead of riding high
   - The LAST RUN card on the main menu lines up with the FEEDBACK button
-- **Known Issues**:
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - On Android, updating means installing the new APK from the release page: the main menu's DOWNLOAD button opens it, and your progress is kept
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.4.4a
 - **New Features**:
@@ -277,40 +193,22 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - On phones, the LEVEL UP! title no longer covers the timer, and the reroll buttons are no longer hidden behind the throwables
   - On phones, the game over buttons no longer fall off the bottom of the screen
   - The revive note sits right under the REVIVE button instead of below the other buttons
-- **Known Issues**:
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - On Android, updating means installing the new APK from the release page: the main menu's DOWNLOAD button opens it, and your progress is kept
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.4.3a
 - **New Features**:
   - Bloodfallen runs on Android: download bloodfallen-0.4.3a-android.apk from the releases page on your phone and open it to install
   - On Android, the main menu tells you when a new version is out; DOWNLOAD opens the release page, and installing the new APK keeps your progress
   - Barrels and urns drop gold coins more often: coins are now their most likely drop, and they break empty less often
-- **Known Issues**:
-  - The Android version is new and has had little testing; tell us how it runs on your phone with FEEDBACK
-  - Android asks you to allow installing apps from your browser the first time, since the game isn't on Google Play
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
 
 ### Version 0.4.2a
 - **Bug Fixes**:
   - The PATCH NOTES list of versions scrolls instead of spilling out of the bottom of the screen
-- **Known Issues**:
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
-  - No Android build yet; it is coming
 
 ### Version 0.4.1a
 - **New Features**:
   - Bloodfallen runs on Linux: download bloodfallen-0.4.1a-linux.tar.gz from the releases page, unpack it and run Bloodfallen.x86_64
   - The Linux version updates itself from the main menu, like the Windows one
   - The game has its own icon: a bleeding B before the blood moon, on your desktop and taskbar
-- **Known Issues**:
-  - The Linux version is new and has had little testing; tell us how it runs on your machine with FEEDBACK
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
-  - No Android build yet; it is coming
 
 ### Version 0.4.0a
 - **New Features**:
@@ -322,9 +220,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - Enemy attacks give a low warning before they land
   - Each kind of enemy sounds like itself when hit and killed: bones rattle, bats squeak, spirits wail, armour clangs and the drowned burst
   - Each level has its own ambient sound under the music: wind, crows and an owl in the graveyard; dripping water and a chain in the crypt
-- **Known Issues**:
-  - Updating needs the game's folder to be one you can write to; if it isn't, the update screen offers the download page instead
-  - Windows only for now; an Android build is coming
 
 ### Version 0.3.1a
 - **New Features**:
@@ -338,8 +233,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Bug Fixes**:
   - Enemies no longer get stuck behind landmarks or in pockets of decor; they walk around to reach you
   - The hero select and SKINS screens fit all four heroes
-- **Known Issues**:
-  - Windows only for now; an Android build is coming
 
 ### Version 0.3.0a
 - **New Features**:
@@ -353,9 +246,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - Accessibility options: screen shake strength, HUD size, and high-visibility warnings and reticle
   - Rebindable keys for moving, dashing, pausing and throwing
   - The cursor is a pointer in menus and a reticle in runs that reacts to hits, kills and reloads
-- **Known Issues**:
-  - Balance is still being tuned, especially with the bigger maps and blocking terrain; tell us how runs feel
-  - Windows only for now; an Android build is coming
 
 ### Version 0.2.1a
 - **Bug Fixes**:
@@ -378,9 +268,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Bug Fixes**:
   - The XP bar fills smoothly instead of in whole points
   - Big crowds no longer flash white
-- **Known Issues**:
-  - Balance is still being tuned; tell us if runs feel too easy or too hard
-  - Windows only for now; an Android build is coming
 
 ### Version 0.1.0a
 - **New Features**:
@@ -401,10 +288,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - The "Options" button now opens the options
   - Movement speed is now capped
   - Fullscreen is no longer blurry
-- **Known Issues**:
-  - Balance is still being tuned; tell us if runs feel too easy or too hard
-  - The Blood Witch's attack animation does not play
-  - Windows only for now; an Android build is coming
 
 ### Version 0.0.1a
 - **New Features**:
@@ -413,9 +296,6 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
   - Basic Weapons/Abilities
 - **Bug Fixes**:
   - Main Menu is now functional
-- **Known Issues**:
-  - Movement Speed Ability is missing a cap
-  - "Options" Button is not functional
 ## License
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to:
 - **Share** - copy and redistribute the material in any medium or format 
