@@ -11,6 +11,19 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.10a
+- **New Features**:
+  - A war horn sounds as each wave starts in Waves mode
+  - A cleared wave is celebrated first, with its own sound, while its crystals and coins fly to you; the level-up cards come after
+  - The Knight's second special is Consecrate, in place of Shield Charge: he plants his sword in holy ground that burns and slows enemies and heals him while he stands in it
+  - The Hunter is redrawn with more detail: a face under his hood, a laced jerkin, gloves, boots and a wrapped bow
+  - One flask: the Firebomb is gone, and the Hex Flask is aimed only as the Blood Witch's main weapon. Taken from a level-up, or by a Witch on the Briar Staff, it flies at the nearest enemy
+- **Bug Fixes**:
+  - When several levels come at once, every level's cards are as big as the first's
+  - The coins a run earns sit beside TOTAL under the inventory instead of in the middle of the screen
+  - The end screen explains a run's coins right beside its coin total
+  - On a phone the boss's health bar no longer covers the level-up cards
+
 ### Version 0.5.9a
 - **New Features**:
   - Bloodfallen speaks seven languages: English, Bosnian, German, French, Spanish, Russian and Turkish. Pick one with Language in the main menu's OPTIONS; the first start uses your device's language
