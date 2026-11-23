@@ -11,6 +11,19 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.11a
+- **New Features**:
+  - Elites drop treasure chests: the first elite of a run always, later ones 1 in 3. A bronze, silver or gold chest holds 1, 3 or 5 rewards that spin in one by one, then fly to where they show: coins, a free level, XP, a full heal, Blood Rage, a reroll or a throwable
+  - Map events break up a run: the Blood Moon (twice the enemies and twice the XP), a stampede of the level's swarm across the screen, and Rising Graves, where for half a minute rings of graves open around you and erupt
+  - A treasure ghoul turns up twice a run and runs from you: catch it within 30 seconds for 20 coins. A marker at the screen's edge shows where it is
+  - The Shield's bubble is a ring of glowing shield plates that turns around the hero and no longer hides them
+- **Bug Fixes**:
+  - The war horn at the start of a wave is a real battle horn and carries over the music
+  - Button labels that barely fit in some languages are shorter
+  - When only two upgrades are left, their cards sit in the middle of the screen
+  - An achievement's coins no longer count towards what the run earned; they still go into your total
+  - The Hunter's longbow is weaker at its top levels: smaller explosions, and the evolved bow fires 3 arrows that pierce 3 enemies
+
 ### Version 0.5.10a
 - **New Features**:
   - A war horn sounds as each wave starts in Waves mode
