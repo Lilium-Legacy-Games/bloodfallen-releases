@@ -11,6 +11,18 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.13a
+- **New Features**:
+  - Mini bosses: two on every level come before its boss, at 5 and 10 minutes in Survival and after waves 3 and 6 in Waves mode. The Graveyard has the Gravedigger and the Headless Knight, the Crypt the Bell-Ringer and the Lantern Keeper, the Dunes the Scarab King and the High Vizier, each with its own look and attacks
+  - As a mini boss arrives the crowd is cleared and its health bar comes up; the run's clock waits until it falls. It leaves a gold chest of 5 rewards
+  - Waves mode has 9 waves, with the mini bosses after the third and the sixth and the boss after the ninth
+  - Ghosts no longer shoot: the Banshee, the Wraith and the Sun Priest are each level's fastest enemy and drift straight through tombstones, crosses and every other obstacle
+  - An elite's chest is now always a bronze one with 1 reward, and a mini boss's gold chest looks its own: larger, domed and ornate
+  - A chest's rewards can be skipped: a tap, click or any key lands the reward that's spinning and starts the next. Once all are shown they glow, and one more press claims them
+- **Bug Fixes**:
+  - The Hunter draws his bow after each shot instead of before it, and the arrow on his bow no longer blinks out and back. The Shade and the Blood Witch's attacks are timed the same way
+  - The kill count stays on one line on a phone, however many kills
+
 ### Version 0.5.12a
 - **New Features**:
   - The Blood Moon is new: for half a minute every enemy moves faster, and a shaft of moonlight falls on a pool near you. Standing in it heals you and doubles your damage, and it moves on every few seconds
