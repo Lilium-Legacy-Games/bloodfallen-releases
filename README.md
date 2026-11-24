@@ -11,6 +11,20 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.12a
+- **New Features**:
+  - The Blood Moon is new: for half a minute every enemy moves faster, and a shaft of moonlight falls on a pool near you. Standing in it heals you and doubles your damage, and it moves on every few seconds
+  - A stampede now charges three times, ten seconds apart, each time from a different side
+  - The treasure ghoul stays 40 seconds. When it gets away, it sprints off through the palisade and out of sight instead of vanishing
+  - A chest's rewards spin slower and slow down as they land, and stay on screen for 3 seconds
+  - The Hunter's Arrow Storm covers a wider spot and leaves the ground burning for 3 seconds, hurting enemies that cross it
+  - The Arrow Rain throwable covers a smaller spot
+- **Bug Fixes**:
+  - The treasure ghoul's marker stays at the screen's edge nearest the ghoul: it no longer jumps across the screen or disappears
+  - The treasure ghoul no longer twitches on the spot when you get close: it keeps running, along the palisade if it has to
+  - A stampede's warning arrows no longer cover the level-up cards and their reroll buttons
+  - A stampede's runners come in from out of sight and run over you, hurting you as they pass, instead of bumping into you
+
 ### Version 0.5.11a
 - **New Features**:
   - Elites drop treasure chests: the first elite of a run always, later ones 1 in 3. A bronze, silver or gold chest holds 1, 3 or 5 rewards that spin in one by one, then fly to where they show: coins, a free level, XP, a full heal, Blood Rage, a reroll or a throwable
