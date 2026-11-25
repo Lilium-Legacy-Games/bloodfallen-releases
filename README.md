@@ -11,6 +11,19 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.14a
+- **New Features**:
+  - Every level now sends the same crowd, about 30% smaller in both Survival and Waves. Later levels are harder because their enemies have more health and hit harder, not because there are more of them, so the game runs lighter on phones
+  - Levelling up takes less XP and coins drop more often, making up for the smaller crowd
+  - The Blood Moon's pool of light is about 30% wider and burns enemies that come into it
+  - With auto-aim on, the movement stick works anywhere on a phone's screen
+  - Waves mode's countdown between waves is 5 seconds
+  - The end screen on a phone is larger, with its buttons at the bottom, well apart from the run's summary
+- **Bug Fixes**:
+  - The Knight's Consecrate plants a smaller sword that stands behind him, and its holy ground no longer has a cross in it
+  - Tapping to skip a chest's rewards on a phone no longer brings up the movement stick
+  - On a phone with a notch or camera hole, the ribbon naming a picked upgrade sits centred under its card
+
 ### Version 0.5.13a
 - **New Features**:
   - Mini bosses: two on every level come before its boss, at 5 and 10 minutes in Survival and after waves 3 and 6 in Waves mode. The Graveyard has the Gravedigger and the Headless Knight, the Crypt the Bell-Ringer and the Lantern Keeper, the Dunes the Scarab King and the High Vizier, each with its own look and attacks
