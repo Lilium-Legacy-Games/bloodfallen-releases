@@ -11,6 +11,13 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.15a
+- **New Features**:
+  - Bosses and mini bosses on every level attack about 40% more often, with warnings as long as before
+  - Every boss and mini boss acts its fight out: it walks with a stride, roars as it arrives and when enraged, raises its arms or weapon before a slam and brings it down on the blow, and lifts its hands to cast its spells
+  - A stampede is a bigger herd of 70 in a lane almost twice as wide, and its warning arrows show how wide it is
+  - The chest under a chest's rewards glows and rattles while the first reward spins, then bursts open in a spray of light
+
 ### Version 0.5.14a
 - **New Features**:
   - Every level now sends the same crowd, about 30% smaller in both Survival and Waves. Later levels are harder because their enemies have more health and hit harder, not because there are more of them, so the game runs lighter on phones
