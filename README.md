@@ -11,6 +11,18 @@ Bloodfallen is a top-down, rogue-lite game. We're in the early stages, and your 
 - **Testing**: Your role as a tester is invaluable. We encourage you to play, break, and report back to help us improve.
 
 ## Patch Notes
+### Version 0.5.16a
+- **New Features**:
+  - A boss or mini boss that walks out of view is shown at the edge of the screen by its face, with its health as a ring around it, like the treasure ghoul
+  - A map event's banner stays on screen 3 seconds longer, so its note can be read
+  - The Blood Moon's banner says the enemies move faster, and that its moonlight hurts them
+  - Chests glow in their own shape, on the ground and when they open
+  - The Bell Ringer's and the Drowned Abbess's tide is a rolling, foaming wave, and the Lantern Keeper's and the Abbess's beam a pouring shaft of light
+  - There are 10% fewer enemies on screen at most on every level, and each level's enemies grow a little tougher over a run
+- **Bug Fixes**:
+  - A Hex Flask that aims itself (with auto-aim, or taken from a level-up) follows the enemy it was thrown at and lands on it, instead of missing one that walked on
+  - The gold chest no longer has a pale circle around it
+
 ### Version 0.5.15a
 - **New Features**:
   - Bosses and mini bosses on every level attack about 40% more often, with warnings as long as before
